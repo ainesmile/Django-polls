@@ -1,0 +1,2 @@
+# Django-polls
+Getting started
